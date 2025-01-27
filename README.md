@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there! 👋 I'm Mayur Argade  
+A passionate BSc IT student aspiring to become a skilled web developer.  
+
+- 💻 **Languages**: Python, C++, JavaScript  
+- 🔧 **Skills**: Web Development (HTML, CSS, JS), DSA, DBMS  
+- 🌱 Currently learning advanced JavaScript and React.js  
+
+### 🌟 Projects:  
+- [E-commerce Website](https://github.com/MayurArgade)  
+- [Landing Page Design](#)  
 
 <!--
 **MayurArgade/MayurArgade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
