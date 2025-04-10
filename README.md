@@ -34,7 +34,8 @@ I build websites, solve problems with code, and love turning ideas into clean us
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/mayurargade](https://www.linkedin.com/in/mayur-argade-031b71271/overlay/about-this-profile/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-argade-031b71271/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white)](https://github.com/MayurArgade)
 
 ---
