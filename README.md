@@ -40,4 +40,4 @@ I build websites, solve problems with code, and love turning ideas into clean us
 
 ---
 
-📄 [Download My Resume]([https://github.com/MayurArgade/MayurArgade/blob/main/Mayur_Resume.pdf](https://github.com/MayurArgade/MayurArgade/blob/main/MAYUR%20RESUME.pdf))
+📄 [Download My Resume]((https://github.com/MayurArgade/MayurArgade/blob/main/MAYUR%20RESUME.pdf))
