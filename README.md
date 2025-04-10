@@ -1,25 +1,43 @@
-## Hi there! 👋 I'm Mayur Argade  
-A passionate BSc IT student aspiring to become a skilled web developer.  
+# 👋 Hey there, I'm Mayur Argade!
 
-- 💻 **Languages**: Python, C++, JavaScript  
-- 🔧 **Skills**: Web Development (HTML, CSS, JS), DSA, DBMS  
-- 🌱 Currently learning advanced JavaScript and React.js  
+🎓 BSc IT Student | 💻 Web Developer | 🌐 Cybersecurity Enthusiast  
+I build websites, solve problems with code, and love turning ideas into clean user experiences.
 
-### 🌟 Projects:  
-- [E-commerce Website](https://github.com/MayurArgade)  
-- [Landing Page Design](#)  
+---
 
-<!--
-**MayurArgade/MayurArgade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 About Me
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Full Stack Web Dev and preparing for a Master's in Cybersecurity
+- 🧠 Passionate about ethical hacking, open-source, and real-world tech
+- ✍️ I write tech blogs sometimes and contribute to open projects
+- 🎯 Goal: Become a dev who writes clean, secure, and impactful code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+---
+
+### 🚀 Projects I'm Proud Of
+- 🖼️ [Wallpaper Gallery App](https://wallpaper-app-dun.vercel.app/)
+- ✅ [To-Do List App](https://mayurargade.github.io/To-Do-List/)
+- 🌐 [Multi-Page Website](https://mayurargade.github.io/multi-page-website-/)
+- 🔐 [Password Manager (Java)](https://github.com/MayurArgade/password-manager-java)
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurargade)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white)](https://github.com/MayurArgade)
+
+---
+
+📄 [Check out my resume](https://github.com/MayurArgade/Mayur_Resume.pdf)
+
