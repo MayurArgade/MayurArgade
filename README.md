@@ -7,8 +7,8 @@ I build websites, solve problems with code, and love turning ideas into clean us
 
 ### 💼 About Me
 
-- 🌱 Currently learning Full Stack Web Dev and preparing for a Master's in Cybersecurity
-- 🧠 Passionate about ethical hacking, open-source, and real-world tech
+- 🌱 Currently learning Full Stack Web Dev and preparing for a Master's in CS
+- 🧠 Passionate about Web & App Development
 - ✍️ I write tech blogs sometimes and contribute to open projects
 - 🎯 Goal: Become a dev who writes clean, secure, and impactful code
 
