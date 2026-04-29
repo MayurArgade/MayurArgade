@@ -1,13 +1,12 @@
 # 👋 Hey there, I'm Mayur Argade!
 
-🎓 BSc IT Student | 💻 Web Developer | 🌐 Cybersecurity Enthusiast  
-I build websites, solve problems with code, and love turning ideas into clean user experiences.
+Full Stack Developer in progress | React · Node.js · MongoDB | Building real products, not just tutorials | Open to work 🚀
 
 ---
 
 ### 💼 About Me
 
-- 🌱 Currently learning Full Stack Web Dev and preparing for a Master's in CS
+- 🌱 Currently learning Full Stack Web Dev
 - 🧠 Passionate about Web & App Development
 - ✍️ I write tech blogs sometimes and contribute to open projects
 - 🎯 Goal: Become a dev who writes clean, secure, and impactful code
